@@ -1,0 +1,14 @@
+{
+  "name": "Basic Boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "all-that-sass": "^1.0.7",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {}
+}
